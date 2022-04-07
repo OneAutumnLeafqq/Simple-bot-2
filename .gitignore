@@ -1,2 +1,6 @@
-/bot.log
-/settings.py
+.log
+build/
+node_modules/
+.idea/
+settings.py
+bot.log
