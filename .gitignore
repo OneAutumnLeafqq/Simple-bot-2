@@ -1,4 +1,5 @@
 *.log
 settings.py
 .idea/
-__pycache__
+__pycache__/
+/tore --staged
