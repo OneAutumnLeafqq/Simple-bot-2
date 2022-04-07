@@ -1,6 +1,6 @@
-*.log
-build/
-node_modules/
-.idea/
+.log
 settings.py
-__pycache__
+__pycache__/
+.idea/
+
+/bot.log
